@@ -412,7 +412,7 @@
                     }
                 ],
                 "KeyName": {
-                    "Ref": "cjangid"
+                    "Ref": "KeyName"
                 },
                 "UserData": {
                     "Fn::Base64": {
